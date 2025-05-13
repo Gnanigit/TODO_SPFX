@@ -1,5 +1,5 @@
 import { WebPartContext } from "@microsoft/sp-webpart-base";
-import { SPHttpClient, SPHttpClientResponse } from "@microsoft/sp-http";
+import { SPHttpClient } from "@microsoft/sp-http";
 
 export interface ITodoItem {
   id?: number;
