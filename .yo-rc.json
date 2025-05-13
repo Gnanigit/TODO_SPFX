@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.14.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "spfx-my-todo-app",
+    "libraryId": "fa52ce96-800c-4a04-90f9-fa6c9738283b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-my-todo-app",
+    "solutionShortDescription": "spfx-my-todo-app description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-my-todo-app-client-side-solution",
+    "id": "fa52ce96-800c-4a04-90f9-fa6c9738283b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-my-todo-app description"
+      },
+      "longDescription": {
+        "default": "spfx-my-todo-app description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-my-todo-app Feature",
+        "description": "The feature that activates elements of the spfx-my-todo-app solution.",
+        "id": "5558e4fb-5d21-45c6-a01f-319dd4716550",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-my-todo-app.sppkg"
+  }
+}
